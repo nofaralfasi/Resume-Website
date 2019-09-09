@@ -41,6 +41,10 @@
 		width: 100%;
 	}
 
+	ul.list-dots li {
+		width: 100%;
+	}
+
 	.download-button .btn{
 		margin-bottom: 20px;
 	}
@@ -192,6 +196,9 @@
 		width: 50%;
 	}
 
+	ul.list-dots li {
+		width: 50%;
+	}
 
 	/*resume*/
 	.resume:before,
